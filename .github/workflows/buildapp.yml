@@ -24,7 +24,7 @@ on:
       bundle_id:
         description: "Modify the bundle ID"
         default: "com.google.ios.youtube"
-        required: true
+        required: false
         type: string
       app_name:
         description: "Modify the app name"
